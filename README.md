@@ -9,7 +9,7 @@ Exmple showing BDd using Lettuce ,selenium and python for
 #Usage
 1. Download the repository 
 2. cd to the root directory
-3. run 'lettuce', this will run the sample test
+3. run 'lettuce' and this will run the sample test
 
 
 
