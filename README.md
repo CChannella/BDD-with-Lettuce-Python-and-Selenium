@@ -6,6 +6,6 @@ Exmple showing BDd using Lettuce ,selenium and python for
 -Install selenium and lettuce bye running 'pip install selenium' and 'pip install lettuce'
 
 #Usage
--Download the repository 
--in a terminal cd to the root directory
--run 'lettuce' in terminal and this will run the sample test
+[1]Download the repository 
+[2]in a terminal cd to the root directory
+[3]run 'lettuce' in terminal and this will run the sample test
