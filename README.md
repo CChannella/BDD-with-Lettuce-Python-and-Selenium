@@ -1,5 +1,5 @@
 # BDD-with-Lettuce-Python-and-Selenium
-Exmple showing BDd using Lettuce ,selenium and python for 
+Exmple showing BDD using Lettuce ,selenium and python
 
 #Prerequisites
 - Python and pip should be installed
