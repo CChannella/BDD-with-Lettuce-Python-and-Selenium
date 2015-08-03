@@ -3,7 +3,7 @@ Exmple showing BDD using Lettuce ,selenium and python
 
 #Prerequisites
 - Python and pip should be installed
-- Install selenium and lettuce bye running 'pip install selenium' and 'pip install lettuce'
+- Install selenium and lettuce by running 'pip install selenium' and 'pip install lettuce'
 
 
 #Usage
